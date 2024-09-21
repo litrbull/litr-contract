@@ -20,7 +20,7 @@ Stay connected with the LITRBULL team and community:
 
 We welcome contributions from the community! Feel free to submit pull requests and report issues. 
 
-Check out our [contributing guidelines (comming soon)](CONTRIBUTING.md) for more details.
+Check out our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
