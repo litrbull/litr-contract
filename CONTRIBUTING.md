@@ -42,11 +42,6 @@ Thank you for your interest in contributing to the LITRBULL smart contract for t
   - Write tests to validate the functionality and edge cases of the contract.
   - If applicable, ensure integration tests pass for any interaction between smart contracts.
 
-Example command to deploy and test the contract:
-```
-tonos-cli deploy <smart-contract.tvc> <parameters.json> --sign <path-to-keyfile>
-```
-
 ### Gas Optimization
 
 - TON is a gas-efficient blockchain, so please keep gas consumption in mind when developing contracts.
